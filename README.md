@@ -4,7 +4,7 @@ Syntax highligts support for CtrlP.
 
 This is based on tiagofumo/vim-nerdtree-syntax-highlight
 
-![](/allfiles.png "All files generated with the generateFiles<span></span>.sh script")
+![](/screenshot.png "All files generated with the generateFiles<span></span>.sh script")
 
 ## Usage
 
